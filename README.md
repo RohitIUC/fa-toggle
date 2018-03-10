@@ -50,10 +50,11 @@ __Note:__ These apply all elements inside targeting element.
 
 ```javascript
 $(document).ready(function() {
-/* Hide element */
-$('your-select').insideDisable();
-/* Show element */
-$('your-select').insideEnable();
+	/* Hide element */
+	$('your-select').insideDisable();
+	
+	/* Show element */
+	$('your-select').insideEnable();
 });
 ```
 
@@ -61,10 +62,11 @@ $('your-select').insideEnable();
 
 ```javascript
 $(document).ready(function() {
-/* Disabled element */
-$('your-select').insideDisable(1);
-/* Disabled false element */
-$('your-select').insideEnable(1);
+	/* Disabled element */
+	$('your-select').insideDisable(1);
+	
+	/* Disabled false element */
+	$('your-select').insideEnable(1);
 });
 ```
 
