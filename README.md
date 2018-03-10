@@ -18,9 +18,9 @@ __Note:__ These apply all elements inside targeting element.
 <input type="radio" fa-toggle="#id" name="radio" value="radio1">
 <input type="checkbox" fa-toggle="element" name="checkbox" value="checkbox1">
 <select fa-toggle=".class" fa-select="option2">
-<option value="option1"></option>
-<option value="option2"></option>
-<option value="option3"></option>
+	<option value="option1"></option>
+	<option value="option2"></option>
+	<option value="option3"></option>
 </select>
 ```
 
@@ -29,9 +29,9 @@ __Note:__ These apply all elements inside targeting element.
 <input type="radio" fa-toggle="#id" fa-disable="true" name="radio" value="radio1">
 <input type="checkbox" fa-toggle="element" fa-disable="true" name="checkbox" value="checkbox1">
 <select fa-toggle=".class" fa-disable="true" fa-select="option2">
-<option value="option1"></option>
-<option value="option2"></option>
-<option value="option3"></option>
+	<option value="option1"></option>
+	<option value="option2"></option>
+	<option value="option3"></option>
 </select>
 ```
 
@@ -40,9 +40,9 @@ __Note:__ These apply all elements inside targeting element.
 <input type="radio" fa-toggle="#id" fa-reverse="true" name="radio" value="radio1">
 <input type="checkbox" fa-toggle="element" fa-reverse="true" name="checkbox" value="checkbox1">
 <select fa-toggle=".class" fa-reverse="true" fa-select="option2">
-<option value="option1"></option>
-<option value="option2"></option>
-<option value="option3"></option>
+	<option value="option1"></option>
+	<option value="option2"></option>
+	<option value="option3"></option>
 </select>
 ```
 
