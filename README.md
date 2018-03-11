@@ -7,7 +7,7 @@ You can also pass callbacks and custom attributes when you initialize the plugin
 
 Although basic functionality like this is easy to write, it can quickly get complex in certain situations. This plugin properly sets up the initial page state based on a form that has already been filled out. 
 
-### [View Demo](http://developers.rohitiuc.info/fa-toggle)
+### [View Demo](http://developers.rohitiuc.info/fa-toggle.html)
 
 Basic usage
 -----------
